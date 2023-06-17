@@ -1,0 +1,191 @@
+[{
+  "_id": {
+    "$oid": "648d72fc681b1d6718fe0735"
+  },
+  "uid": 18,
+  "name": "Music Fest",
+  "tagline": "Experience the Rhythm of India",
+  "schedule": {
+    "$date": {
+      "$numberLong": "1687003200000"
+    }
+  },
+  "description": "A spectacular music festival showcasing the diverse sounds of India.",
+  "moderator": "Ram Swami",
+  "category": "Music",
+  "sub_category": "Festival",
+  "rigor_rank": 5,
+  "attendees": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d7316681b1d6718fe0737"
+  },
+  "uid": 18,
+  "name": "Yoga Retreat",
+  "tagline": "Discover Wellness and Inner Harmony",
+  "schedule": {
+    "$date": {
+      "$numberLong": "1688544000000"
+    }
+  },
+  "description": "Embark on a transformative journey through yoga, meditation, and holistic well-being practices.",
+  "moderator": "Ram Swami",
+  "category": "Health",
+  "sub_category": "Wellness",
+  "rigor_rank": 4,
+  "attendees": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d732d681b1d6718fe0739"
+  },
+  "uid": 18,
+  "name": "Cuisine Fest",
+  "tagline": "A Gastronomic Delight",
+  "schedule": {
+    "$date": {
+      "$numberLong": "1691863200000"
+    }
+  },
+  "description": "Savor the flavors of India with a wide variety of regional dishes and culinary experiences.",
+  "moderator": "Ram Swami",
+  "category": "Food",
+  "sub_category": "Festival",
+  "rigor_rank": 3,
+  "attendees": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d7338681b1d6718fe073b"
+  },
+  "uid": 18,
+  "name": "Art Exhibition",
+  "tagline": "Celebrating Indian Artistry",
+  "schedule": {
+    "$date": {
+      "$numberLong": "1695204000000"
+    }
+  },
+  "description": "Immerse yourself in the vibrant world of Indian art, showcasing paintings, sculptures, and installations.",
+  "moderator": "Ram Swami",
+  "category": "Art",
+  "sub_category": "Exhibition",
+  "rigor_rank": 2,
+  "attendees": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d7344681b1d6718fe073d"
+  },
+  "uid": 18,
+  "name": "Literary Conference",
+  "tagline": "Unleashing the Power of Words",
+  "schedule": {
+    "$date": {
+      "$numberLong": "1698658200000"
+    }
+  },
+  "description": "A gathering of renowned authors, poets, and literary enthusiasts, celebrating the written word.",
+  "moderator": "Ram Swami",
+  "category": "Literature",
+  "sub_category": "Conference",
+  "rigor_rank": 5,
+  "attendees": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d7350681b1d6718fe073f"
+  },
+  "uid": 18,
+  "name": "Dance Showcase",
+  "tagline": "Grace and Rhythm in Motion",
+  "schedule": {
+    "$date": {
+      "$numberLong": "1700065800000"
+    }
+  },
+  "description": "Witness the mesmerizing dance forms of India, performed by talented artists.",
+  "moderator": "Ram Swami",
+  "category": "Dance",
+  "sub_category": "Performance",
+  "rigor_rank": 4,
+  "attendees": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d735c681b1d6718fe0741"
+  },
+  "uid": 18,
+  "name": "Tech Summit",
+  "tagline": "Exploring Innovation and Technology",
+  "schedule": {
+    "$date": {
+      "$numberLong": "1704877200000"
+    }
+  },
+  "description": "A platform for tech enthusiasts to learn, network, and discuss the latest trends and innovations.",
+  "moderator": "Ram Swami",
+  "category": "Technology",
+  "sub_category": "Conference",
+  "rigor_rank": 3,
+  "attendees": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d736b681b1d6718fe0743"
+  },
+  "uid": 18,
+  "name": "Fashion Show",
+  "tagline": "Glamour and Style on the Runway",
+  "schedule": {
+    "$date": {
+      "$numberLong": "1708628400000"
+    }
+  },
+  "description": "Experience the latest fashion trends with captivating runway displays and talented designers.",
+  "moderator": "Ram Swami",
+  "category": "Fashion",
+  "sub_category": "Show",
+  "rigor_rank": 4,
+  "attendees": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d737f681b1d6718fe0745"
+  },
+  "uid": 18,
+  "name": "Film Festival",
+  "tagline": "Celebrating Indian Cinema",
+  "schedule": {
+    "$date": {
+      "$numberLong": "1711886400000"
+    }
+  },
+  "description": "A showcase of Indian films, featuring critically acclaimed movies and emerging talents.",
+  "moderator": "Ram Swami",
+  "category": "Film",
+  "sub_category": "Festival",
+  "rigor_rank": 5,
+  "attendees": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648d738a681b1d6718fe0747"
+  },
+  "uid": 18,
+  "name": "Adventure Trek",
+  "tagline": "Conquer the Mighty Peaks",
+  "schedule": {
+    "$date": {
+      "$numberLong": "1714892400000"
+    }
+  },
+  "description": "Embark on an exhilarating trekking expedition to the breathtaking mountains of India.",
+  "moderator": "Ram Swami",
+  "category": "Adventure",
+  "sub_category": "Trek",
+  "rigor_rank": 5,
+  "attendees": [],
+  "__v": 0
+}]
